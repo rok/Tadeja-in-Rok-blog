@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Tom Preston-Werner</title>
+ <title>Tadeja, Rok, Blog</title>
  <link href="http://trb.bajta.org" rel="self"/>
  <link href="http://trb.bajta.org/"/>
- <updated>2011-06-19T04:53:44+02:00</updated>
+ <updated>2011-06-19T05:09:33+02:00</updated>
  <id>http://trb.bajta.org/</id>
  <author>
    <name>Tadeja, Rok</name>
