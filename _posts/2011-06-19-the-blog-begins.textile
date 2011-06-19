@@ -1,0 +1,18 @@
+---
+layout: post
+title: Zacetek bloga / The blog begins
+---
+
+h1. {{ page.title }}
+
+p(meta). 19 Jun 2011 - Berlin
+
+h2. Tadeja, Rok. Blog.
+
+Odlocila sva se da bova pisala blog.
+Detajli se niso jasni.
+
+<hr />
+
+We decided to write a blog.
+Details are not clear yet.

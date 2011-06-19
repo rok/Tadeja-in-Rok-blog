@@ -1,0 +1,18 @@
+---
+layout: default
+title: Tadeja, Rok, Blog
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1>Other thigs</h1>
+  <ul class="posts">
+    <li><span>November 2010</span> &raquo; <a href="http://t-i-r.tumblr.com">India photoblog</a></li>
+  </ul>
+</div>
