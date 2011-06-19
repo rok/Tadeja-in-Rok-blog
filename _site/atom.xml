@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Tadeja, Rok, Blog</title>
- <link href="http://trb.bajta.org" rel="self"/>
- <link href="http://trb.bajta.org/"/>
- <updated>2011-06-19T05:11:33+02:00</updated>
- <id>http://trb.bajta.org/</id>
+ <title>Tadeja in Rok, Blog</title>
+ <link href="http://tir.bajta.org" rel="self"/>
+ <link href="http://tir.bajta.org/"/>
+ <updated>2011-06-19T18:04:13+02:00</updated>
+ <id>http://tir.bajta.org/</id>
  <author>
    <name>Tadeja, Rok</name>
    <email>rok@mihevc.org</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Zacetek bloga / The blog begins</title>
-   <link href="http://trb.bajta.org/2011/06/19/the-blog-begins.html"/>
+   <link href="http://tir.bajta.org/2011/06/19/the-blog-begins.html"/>
    <updated>2011-06-19T00:00:00+02:00</updated>
-   <id>http://trb.bajta.org/2011/06/19/the-blog-begins</id>
+   <id>http://tir.bajta.org/2011/06/19/the-blog-begins</id>
    <content type="html">&lt;h1&gt;Zacetek bloga / The blog begins&lt;/h1&gt;
 
 &lt;p class=&quot;meta&quot;&gt;19 Jun 2011 - Berlin&lt;/p&gt;
@@ -40,9 +40,9 @@ Details are not clear yet.&lt;/p&gt;
  
  <entry>
    <title>Zacetek bloga / The blog begins</title>
-   <link href="http://trb.bajta.org/2011/06/19/the-blog-begins.html"/>
+   <link href="http://tir.bajta.org/2011/06/19/the-blog-begins.html"/>
    <updated>2011-06-19T00:00:00+02:00</updated>
-   <id>http://trb.bajta.org/2011/06/19/the-blog-begins</id>
+   <id>http://tir.bajta.org/2011/06/19/the-blog-begins</id>
    <content type="html">&lt;h1&gt;Zacetek bloga / The blog begins&lt;/h1&gt;
 &lt;p class=&quot;meta&quot;&gt;19 Jun 2011 &amp;#8211; Berlin&lt;/p&gt;
 &lt;h2&gt;Tadeja, Rok. Blog.&lt;/h2&gt;
