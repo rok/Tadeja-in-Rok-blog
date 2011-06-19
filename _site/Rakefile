@@ -1,7 +1,7 @@
 task :default => :build
  
 namespace :post do
-  desc "Create a new post and launch e"
+  desc "Create a new post and edit in Notepad++"
   task :new do
     system "ruby create.rb"
   end
