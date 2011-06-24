@@ -4,7 +4,7 @@
  <title>Tadeja in Rok, Blog</title>
  <link href="http://tir.bajta.org" rel="self"/>
  <link href="http://tir.bajta.org/"/>
- <updated>2011-06-19T21:17:23+02:00</updated>
+ <updated>2011-06-24T13:03:03+02:00</updated>
  <id>http://tir.bajta.org/</id>
  <author>
    <name>Tadeja, Rok</name>
@@ -13,18 +13,21 @@
 
  
  <entry>
-   <title>Zacetek bloga / The blog begins</title>
-   <link href="http://tir.bajta.org/2011/06/19/the-blog-begins.html"/>
-   <updated>2011-06-19T00:00:00+02:00</updated>
-   <id>http://tir.bajta.org/2011/06/19/the-blog-begins</id>
-   <content type="html">&lt;h1&gt;Zacetek bloga / The blog begins&lt;/h1&gt;
-&lt;p class=&quot;meta&quot;&gt;19 Jun 2011 &amp;#8211; Berlin&lt;/p&gt;
-&lt;h2&gt;Tadeja, Rok. Blog.&lt;/h2&gt;
-&lt;p&gt;Odlocila sva se da bova pisala blog.&lt;br /&gt;
-Detajli se niso jasni.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;We decided to write a blog.&lt;br /&gt;
-Details are not clear yet.&lt;/p&gt;</content>
+   <title>Haml devel page</title>
+   <link href="http://tir.bajta.org/2011/06/23/gallery.html"/>
+   <updated>2011-06-23T00:00:00+02:00</updated>
+   <id>http://tir.bajta.org/2011/06/23/gallery</id>
+   <content type="html">2011-06-24 13:03:03 +0200
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Prva slika</title>
+   <link href="http://tir.bajta.org/2011/06/22/prva-slika.html"/>
+   <updated>2011-06-22T00:00:00+02:00</updated>
+   <id>http://tir.bajta.org/2011/06/22/prva-slika</id>
+   <content type="html">&lt;h2&gt;Prva slika&lt;/h2&gt;
+&lt;p&gt;&lt;embed type=&quot;application/x-shockwave-flash&quot; src=&quot;https://picasaweb.google.com/s/c/bin/slideshow.swf&quot; width=&quot;600&quot; height=&quot;400&quot; flashvars=&quot;host=picasaweb.google.com&amp;captions=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Frok.mihevc%2Falbumid%2F5548156888595593185%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot;&gt;&lt;/embed&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -51,6 +54,21 @@ Detajli se niso jasni.&lt;/p&gt;
 &lt;p&gt;We decided to write a blog.
 Details are not clear yet.&lt;/p&gt;
 </content>
+ </entry>
+ 
+ <entry>
+   <title>Zacetek bloga / The blog begins</title>
+   <link href="http://tir.bajta.org/2011/06/19/the-blog-begins.html"/>
+   <updated>2011-06-19T00:00:00+02:00</updated>
+   <id>http://tir.bajta.org/2011/06/19/the-blog-begins</id>
+   <content type="html">&lt;h1&gt;Zacetek bloga / The blog begins&lt;/h1&gt;
+&lt;p class=&quot;meta&quot;&gt;19 Jun 2011 &amp;#8211; Berlin&lt;/p&gt;
+&lt;h2&gt;Tadeja, Rok. Blog.&lt;/h2&gt;
+&lt;p&gt;Odlocila sva se da bova pisala blog.&lt;br /&gt;
+Detajli se niso jasni.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;We decided to write a blog.&lt;br /&gt;
+Details are not clear yet.&lt;/p&gt;</content>
  </entry>
  
  <entry>
