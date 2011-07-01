@@ -1,0 +1,12 @@
+---
+layout: post
+title: Useless
+tag: useless
+location: home
+time: 01 July 2011
+---
+ 
+h2. {{ page.title }}
+
+p(meta). {{ page.time }} - {{ page.location }}
+
