@@ -21,7 +21,7 @@ end
 namespace :web do
   desc "run server and browser"
   task :start do
-    server = Thread.new { system "jekyll --server" }
+    server = Thread.new { system "jekyll --server --auto" }
     browser = Thread.new { sleep 10; system "open http://localhost:3000/" }
     server.join
     browser.join
