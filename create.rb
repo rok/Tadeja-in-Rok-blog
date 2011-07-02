@@ -1,3 +1,5 @@
+print "Naslov: "
+naslov = gets.chomp
 print "Title: "
 title = gets.chomp
 print "Tag: "
@@ -11,15 +13,19 @@ File.open(file,"w") do |f|
 f.write <<EOF
 ---
 layout: post
+naslov: #{naslov}
 title: #{title}
 tag: #{tag}
 location: #{location}
 time: #{time}
 ---
- 
-h2. {{ page.title }}
 
 p(meta). {{ page.time }} - {{ page.location }}
+
+h2(#slovenian). {{ page.naslov }}
+
+
+h2(#english). {{ page.title }}
 
 EOF
 end
