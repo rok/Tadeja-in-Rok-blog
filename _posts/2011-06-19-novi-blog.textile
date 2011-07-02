@@ -7,18 +7,18 @@ location: Berlin
 time: 19 June 2011
 ---
 
-p(meta). {{ page.time }} - {{ page.location }} 
-
-
 h2(#slovenian). {{ page.naslov }}
 
-Zacela bova pisati (foto) blog.
+p(meta). {{ page.time }} - {{ page.location }} 
 
+Zdravo, sva Tadeja in Rok in bova pisala (foto)blog.
+
+<br />
 <hr />
-
+<br />
 
 h2(#english). {{ page.title }}
 
 p(meta). {{ page.time }} - {{ page.location }}
 
-We're starting a (photo)blog.
+Ohai! We're Tadeja and Rok and we'll be (photo)blogging.
