@@ -1,20 +1,23 @@
 ---
 layout: post
-title: Novi blog / New blog
+naslov: Novi blog
+title: New blog
 tag: blog berlin
 location: Berlin
 time: 19 June 2011
 ---
- 
-h2. {{ page.title }}
 
-p(meta). {{ page.time }} - {{ page.location }}
+p(meta). {{ page.time }} - {{ page.location }} 
+
+
+h2(#slovenian). {{ page.naslov }}
 
 Zacela bova pisati (foto) blog.
 
 <hr />
 
-h2. {{ page.title }}
+
+h2(#english). {{ page.title }}
 
 p(meta). {{ page.time }} - {{ page.location }}
 
