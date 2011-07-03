@@ -13,8 +13,12 @@
     end
 
     def convert(content)
-      engine = Haml::Engine.new(content)
-      engine.render
+      begin
+        engine = Haml::Engine.new(content)
+        engine.render
+      rescue StandardError => e
+          puts "!!! HAML Error: " + e.message
+      end
     end
   end
 
@@ -32,8 +36,12 @@
     end
 
     def convert(content)
-      engine = Sass::Engine.new(content)
-      engine.render
+      begin
+        engine = Sass::Engine.new(content)
+        engine.render
+      rescue StandardError => e
+        puts "!!! SASS Error: " + e.message
+      end
     end
   end
 end
