@@ -1,36 +1,16 @@
-task :default => :build
- 
+task :default => :preview
+
+desc "rebuild the site and start the server"
+task :preview do
+  system "rm -rf _site"
+  system "jekyll --server --auto"
+end
+
 namespace :post do
   desc "Create a new post and edit in Notepad++"
   task :new do
     system "ruby create.rb"
   end
-end
- 
-desc "rebuild the jekyll page"
-task :rebuild do
-  system "rm -rf _site"
-  system "jekyll --no-auto"
-end
- 
-desc "build the jekyll page"
-task :build do
-  system "jekyll --no-auto"
-end
- 
-namespace :web do
-  desc "run server and browser"
-  task :start do
-    server = Thread.new { system "jekyll --server --auto" }
-    browser = Thread.new { sleep 10; system "open http://localhost:3000/" }
-    server.join
-    browser.join
-  end
-end
- 
-desc "launch default browser"
-task :launch do
-  system "open _site/index.html"
 end
  
 desc "deploy site to Heroku and Github"
