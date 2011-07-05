@@ -1,0 +1,17 @@
+---
+layout: post
+naslov: Predstava @Rroma
+title: The Show @Rroma
+tag: Anders show Rroma theater
+location: Boddinstrasse Neukolln Berlin
+cas: 15.junij 2011
+time: 15 June 2011
+---
+
+h2. {{ page.naslov }} / {{ page.title }}
+
+p(meta). {{ page.cas }} - {{ page.location }}
+
+<embed type="application/x-shockwave-flash" src="https://picasaweb.google.com/s/c/bin/slideshow.swf" width="800" height="533" flashvars="host=picasaweb.google.com&captions=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F109993428721177367085%2Falbumid%2F5625600640894794513%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCLqMybPfo7C2ZA%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+
+p(meta). {{ page.time }} - {{ page.location }}
