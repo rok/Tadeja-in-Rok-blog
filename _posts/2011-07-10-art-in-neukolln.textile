@@ -1,0 +1,23 @@
+---
+layout: post
+naslov: Umetniski Neukolln itd
+title: Art in Neukolln etc
+tag: Artisti Neukolln Berlin
+location: Neukolln Berlin
+time: 19 Juni 2011
+---
+
+p(meta). {{ page.time }} - {{ page.location }}
+
+h2(#slovenian). {{ page.naslov }}
+
+V tednu 13.-19.junija: Obisk <a href="http://de.wikipedia.org/wiki/Ministerg%C3%A4rten">"vrta" ministrstev</a>.
+Predstava @Rroma Theater. Spet turska trznica! :)
+Velepraznovanje Francescovega rojstnega dne - zacinjeno z beneskimi maskami.
+Vikend umetniskih 48 ur Neukollna z odprtimi galerijami, instalacijami in predstavami vsepovprek.
+Vmes v nekem kaficu pa se odprtje razstave ilustracij znanke Cristine.
+
+<div style="width:400px;font-family:arial,sans-serif;font-size:13px;"><div><embed type="application/x-shockwave-flash" src="https://picasaweb.google.com/s/c/bin/slideshow.swf" width="400" height="267" flashvars="host=picasaweb.google.com&captions=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F109993428721177367085%2Falbumid%2F5627434560376389329%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCLTIrMKasd7JNA%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></div><span style="float:left;"><a href="https://picasaweb.google.com/109993428721177367085/Week24Artisti?authuser=0&authkey=Gv1sRgCLTIrMKasd7JNA&feat=flashalbum" style="color:#3964c2">View all</a></span><div style="text-align:right;"><a href="http://picasaweb.google.com/lh/getEmbed?feat=flashalbum" style="color:#3964c2">Get your own</a></div></div>
+
+h2(#english). {{ page.title }}
+
