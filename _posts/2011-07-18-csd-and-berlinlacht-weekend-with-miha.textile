@@ -1,0 +1,24 @@
+---
+layout: post
+naslov: CSD, BerlinLacht ter Miha na obisku
+title: CSD, BerlinLacht, Miha visiting
+tag: Berlin
+location: Berlin
+time: 18 July 2011
+---
+
+p(meta). {{ page.time }} - {{ page.location }}
+
+h2(#slovenian). {{ page.naslov }}
+
+25.letosnji teden.
+Cetrtek > ekspresni vlak dostavi raziskovalca iz Freiburga...Miha na obisku!
+Petek > po delu sledil st. Silvio!
+Sobota > Ogled divje parade (Cristopher Street Day), ulicnih umetnikov (Berlin Lacht), ...
+Nedelja > Andrea, Rok, Tadeja; tajska vecerja
+
+
+<table style="width:194px;"><tr><td align="center" style="height:194px;background:url(https://picasaweb.google.com/s/c/transparent_album_background.gif) no-repeat left"><a href="https://picasaweb.google.com/tadeja.kadunc/Week25MihaCSDLachtThai?authuser=0&authkey=Gv1sRgCK3hm4n3_KLrZA&feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-W9gyWOpzexE/TiMttdDM0CE/AAAAAAAAIzM/jnwGrUyTSYQ/s160-c/Week25MihaCSDLachtThai.jpg" width="160" height="160" style="margin:1px 0 0 4px;"></a></td></tr><tr><td style="text-align:center;font-family:arial,sans-serif;font-size:11px"><a href="https://picasaweb.google.com/tadeja.kadunc/Week25MihaCSDLachtThai?authuser=0&authkey=Gv1sRgCK3hm4n3_KLrZA&feat=embedwebsite" style="color:#4D4D4D;font-weight:bold;text-decoration:none;">week25 - Miha CSD Lacht Thai</a></td></tr></table>
+
+h2(#english). {{ page.title }}
+
